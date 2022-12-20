@@ -1,6 +1,6 @@
 {
   "name": "release-test",
-  "version": "1.8.2",
+  "version": "1.9.0",
   "main": "index.js",
   "repository": "https://github.com/icaromh/release-test.git",
   "author": "Ícaro Heimig <icaro.heimig@talkdesk.com>",
