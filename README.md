@@ -4,8 +4,9 @@
 release-please bootstrap \
   --token=$GH_TOKEN \
   --repo-url=icaromh/release-test \
-  --release-type=node
-  --changelog-type=github
+  --release-type=node \
+  --changelog-type=github \
+  --label=""
 ```
 
 
