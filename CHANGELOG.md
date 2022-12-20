@@ -5,6 +5,23 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.9.0](https://github.com/icaromh/release-test/compare/v1.8.2...v1.9.0) (2022-12-20)
+
+
+### Features
+
+* add script ([b72281d](https://github.com/icaromh/release-test/commit/b72281d1938037a96eb874609ef92b32d877dd58))
+* add start function ([8a7f115](https://github.com/icaromh/release-test/commit/8a7f11563de0351ec538e9866e730d5e7d28f182))
+* breaking changes ([b86f7b8](https://github.com/icaromh/release-test/commit/b86f7b884d9e9355a9621010002e652939408c74))
+
+
+### Bug Fixes
+
+* add empty header ([1cfb9b9](https://github.com/icaromh/release-test/commit/1cfb9b99f05dbcd95232f9f0895d5a3928d77291))
+* test ([941ccd8](https://github.com/icaromh/release-test/commit/941ccd895a0e7e9730a7f09d18a64f593fc0610a))
+* test ([a890779](https://github.com/icaromh/release-test/commit/a890779e3f442ab94190202b8b4deb5757b43364))
+* wrong version ([cc9d1e3](https://github.com/icaromh/release-test/commit/cc9d1e3c163863d3d7f4275633ba795e09418380))
+
 ## [1.8.1](https://github.com/icaromh/release-test/compare/release-test-v1.8.0...release-test-v1.8.1) (2022-12-20)
 
 
