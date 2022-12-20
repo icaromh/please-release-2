@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.9.1](https://github.com/icaromh/release-test/compare/v1.9.0...1.9.1) (2022-12-20)
+
+
+### Bug Fixes
+
+* remove v from tag ([26c4ec9](https://github.com/icaromh/release-test/commit/26c4ec93b97faa9d02df794f11be4eb27ebb8648))
+
 ## [1.9.0](https://github.com/icaromh/release-test/compare/v1.8.2...v1.9.0) (2022-12-20)
 
 
