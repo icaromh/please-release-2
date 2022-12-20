@@ -5,6 +5,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.8.0](https://github.com/icaromh/release-test/compare/release-test-v1.7.1...release-test-v1.8.0) (2022-12-20)
+
+
+### Features
+
+* add script ([b72281d](https://github.com/icaromh/release-test/commit/b72281d1938037a96eb874609ef92b32d877dd58))
+* add start function ([8a7f115](https://github.com/icaromh/release-test/commit/8a7f11563de0351ec538e9866e730d5e7d28f182))
+
 ## [1.7.1](https://github.com/Talkdesk/atlas-desktop/releases/tag/1.7.1) - 2022-12-13
 
 ### Added
