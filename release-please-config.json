@@ -9,8 +9,8 @@
       "prerelease": false,
       "pull-request-title-pattern": "Release ${version}",
       "pull-request-header": "🚧 Releasing: ",
-      "include-v-in-tag": false,
-      "changelog-type": "github"
+      "include-component-in-tag": false,
+      "include-v-in-tag": false
     }
   },
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
