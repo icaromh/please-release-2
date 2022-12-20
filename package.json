@@ -6,7 +6,7 @@
   "author": "Ícaro Heimig <icaro.heimig@talkdesk.com>",
   "license": "MIT",
   "scripts": {
-    "release": "release-please release-pr --pull-request-title-pattern=\"Release ${version}\" --pull-request-header=\"\" --changelog-type=github --token=$GH_TOKEN --repo-url=icaromh/release-test --include-v-in-tags=false",
-    "release:github": "release-please github-release --token=$GH_TOKEN --repo-url=icaromh/release-test --include-v-in-tags=false"
+    "release": "release-please release-pr --token=$GH_TOKEN --repo-url=icaromh/release-test",
+    "release:github": "release-please github-release --token=$GH_TOKEN --repo-url=icaromh/release-test"
   }
 }
