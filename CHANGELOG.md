@@ -5,6 +5,32 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## 1.0.0 (2022-12-20)
+
+
+### Features
+
+* add script ([b72281d](https://github.com/icaromh/please-release-2/commit/b72281d1938037a96eb874609ef92b32d877dd58))
+* add start function ([8a7f115](https://github.com/icaromh/please-release-2/commit/8a7f11563de0351ec538e9866e730d5e7d28f182))
+* arruma isso ([add5129](https://github.com/icaromh/please-release-2/commit/add5129e0c8fcd50ef1a1159b6be113490f10928))
+* breaking changes ([b86f7b8](https://github.com/icaromh/please-release-2/commit/b86f7b884d9e9355a9621010002e652939408c74))
+* remove github thing ([6281e56](https://github.com/icaromh/please-release-2/commit/6281e563ff6b3d7cb4f740c51972bbbe6dfa6ee5))
+* test ([6c13493](https://github.com/icaromh/please-release-2/commit/6c1349309fb8e49e5cf6dc6f534c4206573cd318))
+
+
+### Bug Fixes
+
+* add empty header ([1cfb9b9](https://github.com/icaromh/please-release-2/commit/1cfb9b99f05dbcd95232f9f0895d5a3928d77291))
+* changelog type ([d1cc18d](https://github.com/icaromh/please-release-2/commit/d1cc18de85de579d3e56045afa2a6c1af3029173))
+* remove v from tag ([26c4ec9](https://github.com/icaromh/please-release-2/commit/26c4ec93b97faa9d02df794f11be4eb27ebb8648))
+* repository name ([8e7503f](https://github.com/icaromh/please-release-2/commit/8e7503f2ceee9c8c3ac4c7b83bef85fc9c2ee0ea))
+* repository tag ([d5a691a](https://github.com/icaromh/please-release-2/commit/d5a691a5579b9561d8d9b1ea0a9c987ce016ef93))
+* test ([cf233ef](https://github.com/icaromh/please-release-2/commit/cf233ef816d388e761365427e1c21ab33299f5cf))
+* test ([941ccd8](https://github.com/icaromh/please-release-2/commit/941ccd895a0e7e9730a7f09d18a64f593fc0610a))
+* test ([a890779](https://github.com/icaromh/please-release-2/commit/a890779e3f442ab94190202b8b4deb5757b43364))
+* test 2 ([facf0bb](https://github.com/icaromh/please-release-2/commit/facf0bb446d06fb1f69236c9b9c22c074823ea32))
+* wrong version ([cc9d1e3](https://github.com/icaromh/please-release-2/commit/cc9d1e3c163863d3d7f4275633ba795e09418380))
+
 ## [1.9.1](https://github.com/icaromh/release-test/compare/v1.9.0...1.9.1) (2022-12-20)
 
 
