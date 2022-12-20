@@ -2,4 +2,4 @@ function run(){
     console.log("run")
 }
 
-run()
+run2()
