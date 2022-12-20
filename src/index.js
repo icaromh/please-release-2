@@ -1,5 +1,5 @@
 function start(){
-    console.log("st art")
+    console.log("start")
 }
 
 start()
