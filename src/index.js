@@ -1,5 +1,5 @@
 function start(){
-    console.log("start asda")
+    console.log("start")
 }
 
 start()
