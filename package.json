@@ -1,12 +1,12 @@
 {
-  "name": "release-test",
+  "name": "please-release-2",
   "version": "1.9.1",
   "main": "index.js",
-  "repository": "https://github.com/icaromh/release-test.git",
+  "repository": "https://github.com/icaromh/please-release-2.git",
   "author": "Ícaro Heimig <icaro.heimig@talkdesk.com>",
   "license": "MIT",
   "scripts": {
-    "release": "release-please release-pr --token=$GH_TOKEN --repo-url=icaromh/release-test",
-    "release:github": "release-please github-release --token=$GH_TOKEN --repo-url=icaromh/release-test"
+    "release": "release-please release-pr --token=$GH_TOKEN --repo-url=icaromh/please-release-2",
+    "release:github": "release-please github-release --token=$GH_TOKEN --repo-url=icaromh/please-release-2"
   }
 }
