@@ -5,6 +5,18 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.0](https://github.com/icaromh/please-release-2/compare/1.0.0...1.1.0) (2022-12-20)
+
+
+### Features
+
+* add function run2 ([abce11e](https://github.com/icaromh/please-release-2/commit/abce11e0083ecfb98b2c8f83b66405657b3b276a))
+
+
+### Bug Fixes
+
+* changed start label ([43d4714](https://github.com/icaromh/please-release-2/commit/43d4714b24776d59cd8437bbe5ad973e7fe5b2b5))
+
 ## 1.0.0 (2022-12-20)
 
 
