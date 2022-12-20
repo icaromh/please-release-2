@@ -1,12 +1,12 @@
 {
   "name": "release-test",
-  "version": "1.8.0",
+  "version": "1.8.1",
   "main": "index.js",
   "repository": "https://github.com/icaromh/release-test.git",
   "author": "Ícaro Heimig <icaro.heimig@talkdesk.com>",
   "license": "MIT",
   "scripts": {
-    "release" : "release-please release-pr --changelog-type=github --token=$GH_TOKEN --repo-url=icaromh/release-test --include-v-in-tags=false",
-    "release:github" : "release-please github-release --token=$GH_TOKEN --repo-url=icaromh/release-test --include-v-in-tags=false"
+    "release": "release-please release-pr --changelog-type=github --token=$GH_TOKEN --repo-url=icaromh/release-test --include-v-in-tags=false",
+    "release:github": "release-please github-release --token=$GH_TOKEN --repo-url=icaromh/release-test --include-v-in-tags=false"
   }
 }
