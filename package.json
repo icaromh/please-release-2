@@ -6,6 +6,6 @@
   "author": "Ícaro Heimig <icaro.heimig@talkdesk.com>",
   "license": "MIT",
   "scripts": {
-    "release" : "release-please github-release --token=$GH_TOKEN --repo-url=icaromh/release-test"
+    "release": "release-please github-release --token=$GH_TOKEN --repo-url=icaromh/release-test"
   }
 }
