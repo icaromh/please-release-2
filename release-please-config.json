@@ -9,7 +9,6 @@
       "prerelease": false,
       "pull-request-title-pattern": "Release ${version}",
       "pull-request-header": "🚧 Releasing: ",
-      "include-component-in-tag": false,
       "include-v-in-tag": false,
       "changelog-type": "github"
     }
