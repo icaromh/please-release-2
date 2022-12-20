@@ -7,6 +7,7 @@
   "license": "MIT",
   "scripts": {
     "release": "release-please release-pr --token=$GH_TOKEN --repo-url=icaromh/please-release-2",
+    "release:dry-run": "release-please release-pr --dry-run --token=$GH_TOKEN --repo-url=icaromh/please-release-2",
     "release:github": "release-please github-release --token=$GH_TOKEN --repo-url=icaromh/please-release-2"
   }
 }
